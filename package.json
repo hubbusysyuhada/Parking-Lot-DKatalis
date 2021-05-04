@@ -1,0 +1,12 @@
+{
+  "name": "parking_lot_2.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app create_parking_lot 6 \n node app park KA-01-HH-1234 \n node app park KA-01-HH-9999 \n node app park KA-01-BB-0001 \n node app park KA-01-HH-7777 \n node app park KA-01-HH-2701 \n node app park KA-01-HH-3141 \n node app leave KA-01-HH-3141 4 \n node app status \n node app park KA-01-P-333 \n node app park DL-12-AA-9999 \n node app leave KA-01-HH-1234 4 \n node app leave KA-01-BB-0001 6 \n node app leave DL-12-AA-9999 2 \n node app park KA-09-HH-0987 \n node app park CA-09-IO-1111 \n node app park KA-09-HH-0123 \n node app status"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
