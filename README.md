@@ -1,7 +1,7 @@
 # Parking Lot Hubb Application
-> A Javascript Command Line Interface application to manage parking lot in a public places
-> By Muhammad Hafidz Hubbusysyuhada as Assessment Project for DKatalis (Bank Jago)
-> Git repository : https://github.com/hubbusysyuhada/Parking-Lot-DKatalis.git
+- A Javascript Command Line Interface application to manage parking lot in a public places
+- By Muhammad Hafidz Hubbusysyuhada as Assessment Project for DKatalis (Bank Jago)
+- Git repository : https://github.com/hubbusysyuhada/Parking-Lot-DKatalis.git
   
 ## Features :
  - Create parking lot with customized ammount of available spaces
