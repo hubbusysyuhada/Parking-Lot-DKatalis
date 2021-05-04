@@ -7,6 +7,7 @@
  - Create parking lot with customized ammount of available spaces
  - Register a parked car with it's vehicle number
  - Empty current slot if a car leaves parking lot
+ - Check status of current parking lot
   
 # Commands
   
