@@ -11,6 +11,21 @@
   
 # Commands
   
+# Using Docker
+> Run this file test using docker
+
+1. Pull docker image from repository
+```json
+docker pull hubbusysyuhada/parking_lot_dkatalis:latest
+```
+
+2. Run the test
+```json
+docker run hubbusysyuhada/parking_lot_dkatalis
+```
+
+# Using Node Package Manager
+
 ## Run all test
 > Run all test and case given by the DKatalis
 
